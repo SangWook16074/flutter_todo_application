@@ -1,16 +1,11 @@
-# flutter_todo_application
+# A&I 3기 Flutter과정 실전 투두 앱
 
-A new Flutter project.
+![06](https://github.com/user-attachments/assets/034f7c86-ed41-4ea6-b9ab-0720f65803ce)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Getting Start
+```
+git clone https://github.com/SangWook16074/flutter_todo_application.git
+flutter clean
+flutter pub get
+flutter run
+```
